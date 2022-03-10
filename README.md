@@ -41,3 +41,5 @@ input: createShape(3); output:
   
 
 }
+## Here's a quick reference for finding distanceFromOrigin
+![reference](https://user-images.githubusercontent.com/92058204/157701338-3a7ce8b4-a27a-4b3d-b60b-7a45ce079359.png)
