@@ -1,10 +1,10 @@
 # shapes-1 Task Instructions
 
-##Write a function createShape that takes arguments:
+## Write a function createShape that takes arguments:
 
 createShape: (numVertices: number) => Shape
 
-##Where a shape is:
+## Where a shape is:
 
 type Vertex = {
   x: number;
@@ -18,7 +18,7 @@ type Shape = {
   findPerimeter: (sideLength: number) => number;
 }
 
-##For example
+## For example
 
 input: createShape(3); output:
 
