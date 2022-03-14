@@ -4,7 +4,7 @@ const round = (unrounded) => Math.ceil(unrounded * 10000) / 10000;
 
 const createShape = (numVertices) => {
   const angleSize = (numVertices - 2) * 180;
-  const innerAngleSize = angleSize / (2 * numVertices)
+  const innerAngleSize = angleSize / (2 * numVertices);
 
   const shapeProperties = {
     name: "buttPlug",
